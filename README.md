@@ -40,11 +40,11 @@ This project helped me learn how to **fetch data** from an external API and hand
 ## 🌟 Example
 1. Input: `Slovakia`
 2. Output:
-   - Country Name: Italy
-   - Capital City: Rome 🏛️
-   - Population: 59,000,000 👥
+   - Country Name: Slovakia
+   - Capital City: Bratislava 🏛️
+   - Population:  5,422,194 👥
    - Region: Europe 🌍
-   - Flag: ![Italian Flag](https://flagcdn.com/w80/sk.png)
+   - Flag: ![Slovak Flag](https://flagcdn.com/w80/sk.png)
 
 ---
 
